@@ -8,6 +8,7 @@ class Main {
         }
 
         System.out.println("Hello World");
+        System.out.println("Calculating statistics...");
         System.out.println("Average: " + StatisticsHelper.calculateAverage(values));
     }
 }
